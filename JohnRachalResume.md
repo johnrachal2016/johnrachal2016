@@ -8,8 +8,9 @@
 
 Technical writer and editor with experience in the payments and semiconductor industries. Impactful professional with expert writing, editing, and proofreading skills; consistently recognized for accuracy. Thrives in supporting the needs of multiple teams with different, often conflicting, priorities, and has a history of effecting change in marketing organizations both large and small. Core competencies include:
 
-Style Guide Development and Implementation / DITA Authoring / AI Prompt Engineering / Content Strategy / Problem Solving / Self-Starter / 
-Project Management / Creative Thinker / Team Player / Technical Concepts
+Style Guide Development and Implementation / DITA Authoring / 
+AI Prompt Engineering / Content Strategy / Problem Solving / Self-Starter / 
+Project Management / Creative Collaborator / Team Player / Technical Concepts
 
 **EXPERIENCE**
 
@@ -64,6 +65,6 @@ University of Phoenix
 **Bachelor of Science, BS, E-Business,**  
 University of Phoenix
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDk2MTM3OCwxNTM2ODIxODkwLDk3ND
-YzNDE4MV19
+eyJoaXN0b3J5IjpbLTE4MjQ2NDA3MzcsMTE4MDk2MTM3OCwxNT
+M2ODIxODkwLDk3NDYzNDE4MV19
 -->
