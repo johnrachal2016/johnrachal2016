@@ -46,9 +46,9 @@ Provided technical publication support for 3 business units. Recognized for accu
 
 **TOOLS**
 
-Adobe Creative Suite / Adobe Acrobat Professional Suite / 
+Acrolinx / Adobe Creative Suite / Adobe Acrobat Professional Suite / 
 Adobe FrameMaker /  Contour / Confluence / Documentum / Figma / 
-Github / HTML / Illustrator / InDesign / Jira / Logic Pro 9.0 / Markdown / Microsoft Office Suite / OneNote / Open AI ChatGPT / Oxygen XML Editor / Photoshop / Quark Xpress / SharePoint / StackEdit / 
+GitHub / HTML / Illustrator / InDesign / Jira / Logic Pro 9.0 / Markdown / Microsoft Office Suite / OneNote / Open AI ChatGPT / Oxygen XML Editor / Photoshop / Quark Xpress / SharePoint / StackEdit / 
 Tridion Documentation Manager / Visio
 
   
@@ -64,5 +64,5 @@ University of Phoenix
 **Bachelor of Science, BS, E-Business,**  
 University of Phoenix
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0NjM0MTgxXX0=
+eyJoaXN0b3J5IjpbMTUzNjgyMTg5MCw5NzQ2MzQxODFdfQ==
 -->
